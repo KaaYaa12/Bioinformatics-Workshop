@@ -1,0 +1,48 @@
+PEPSTATS of TBA1A_HUMAN from 1 to 451
+
+Molecular weight = 50135.63  		Residues = 451   
+Average Residue Weight  = 111.165 	Charge   = -17.5 
+Isoelectric Point = 4.6995
+A280 Molar Extinction Coefficients  = 50310 (reduced)   51060 (cystine bridges)
+A280 Extinction Coefficients 1mg/ml = 1.003 (reduced)   1.018 (cystine bridges)
+Probability of expression in inclusion bodies = 0.721
+
+Residue		Number		Mole%		DayhoffStat
+A = Ala		36		7.982  		0.928  	
+B = Asx		0		0.000  		0.000  	
+C = Cys		12		2.661  		0.918  	
+D = Asp		27		5.987  		1.088  	
+E = Glu		37		8.204  		1.367  	
+F = Phe		20		4.435  		1.232  	
+G = Gly		37		8.204  		0.977  	
+H = His		13		2.882  		1.441  	
+I = Ile		27		5.987  		1.330  	
+J = ---		0		0.000  		0.000  	
+K = Lys		19		4.213  		0.638  	
+L = Leu		32		7.095  		0.959  	
+M = Met		10		2.217  		1.304  	
+N = Asn		16		3.548  		0.825  	
+O = ---		0		0.000  		0.000  	
+P = Pro		20		4.435  		0.853  	
+Q = Gln		16		3.548  		0.910  	
+R = Arg		21		4.656  		0.950  	
+S = Ser		21		4.656  		0.665  	
+T = Thr		30		6.652  		1.090  	
+U = ---		0		0.000  		0.000  	
+V = Val		34		7.539  		1.142  	
+W = Trp		4		0.887  		0.682  	
+X = Xaa		0		0.000  		0.000  	
+Y = Tyr		19		4.213  		1.239  	
+Z = Glx		0		0.000  		0.000  	
+
+Property	Residues		Number		Mole%
+Tiny		(A+C+G+S+T)		136		30.155
+Small		(A+B+C+D+G+N+P+S+T+V)	233		51.663
+Aliphatic	(A+I+L+V)		129		28.603
+Aromatic	(F+H+W+Y)		56		12.417
+Non-polar	(A+C+F+G+I+L+M+P+V+W+Y)	251		55.654
+Polar		(D+E+H+K+N+Q+R+S+T+Z)	200		44.346
+Charged		(B+D+E+H+K+R+Z)		117		25.942
+Basic		(H+K+R)			53		11.752
+Acidic		(B+D+E+Z)		64		14.191
+
